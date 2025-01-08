@@ -1,7 +1,7 @@
 # Azure Storage 101
 Getting Started with Cloud Storage
 
-![alt text](https://raw.githubusercontent.com/danielecolon/NashuaCloud.NETUserGroup-Azure-Arc-Sentinel/refs/heads/master/CloudStorage.png)
+![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Storage-101/refs/heads/main/CloudStorage.png)
 
 ## Details
 Join us for a beginner-friendly introduction to Azure Storage, where we'll cover the basics of Microsoft's cloud storage solutions.
