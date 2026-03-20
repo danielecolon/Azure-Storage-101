@@ -14,7 +14,7 @@ Perfect for anyone new to cloud computing or looking to build a strong foundatio
 Daniel Colón has expertise in cloud, infrastructure, and systems integration obtained through 20 plus years of working as a manager, architect and developer on mission critical back-end systems that have included various cloud platforms such as SoftLayer, AWS and Azure. He has taught various courses at Northeastern University including ASP.NET, C#, and XML Web Services. He has certifications including A+, Security+, Azure Solutions Architect Expert.
 
 ### YouTube
-[Getting Started with Cloud Storage](https://www.youtube.com/watch?v=4mc0JRUGQ2o&t=3386s)
+[Azure Storage 101 Getting Started with Cloud Storage](https://www.youtube.com/watch?v=4mc0JRUGQ2o&t=3386s)
 
 ### Slides
 [AzureStorage101-GettingStartedwithCloudStorage.pdf](AzureStorage101-GettingStartedwithCloudStorage.pdf)
